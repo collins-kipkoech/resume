@@ -1,0 +1,32 @@
+body{
+    background-color: bisque;
+    margin: 10px;
+    border: 2px groove green;
+    padding: 5px;
+    font-family: sans-serif;
+}
+.personal{
+    font-family: inherit;
+}
+.personal h3{
+    color: blue;
+
+}
+.education{
+    font-family: inherit;
+}
+.education h3{
+    color: blue;
+
+}
+#text{
+    color: blue;
+}
+.skills{
+    font-family: inherit;
+    font-style: italic;
+}
+.contact h3{
+    color: blue;
+}
+
